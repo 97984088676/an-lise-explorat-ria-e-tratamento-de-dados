@@ -13,7 +13,4 @@ Projetos em Python para análise exploratória (EDA) e tratamento de dados aplic
 - **Bibliotecas:** `pandas`, `matplotlib`, `seaborn`
 - **Ambiente:** Google Colab / Jupyter Notebooks
 
-## 🚀 Como Usar
-1. Clone o repositório: `git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git`
-2. Instale as dependências: `pip install pandas matplotlib seaborn`
-3. Execute os notebooks no seu ambiente preferido.
+
